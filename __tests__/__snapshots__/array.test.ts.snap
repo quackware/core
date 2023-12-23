@@ -1,0 +1,15 @@
+export const snapshot = {};
+
+snapshot[`array > index 1`] = `
+{
+  one: {
+    type: "one",
+  },
+  three: {
+    type: "three",
+  },
+  two: {
+    type: "two",
+  },
+}
+`;
