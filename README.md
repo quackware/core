@@ -1,0 +1,3 @@
+# @quackware/core
+
+Core Code
